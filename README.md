@@ -2,7 +2,7 @@
 Crisper Games is a collection created by a student at Patton Middle School in McMinnville, Oregon. It includes HTML games, proxy music, and various exploits gathered from different online repositories. The collection uses HTML files because the school-issued Chromebooks are locked down and have restrictions on what can be installed. Crisper Games works around these limitations, allowing access to games and music even on restricted devices. However, it’s also compatible with any computer, making it versatile for all users.
 
 The collection is designed for those who want to explore and enjoy games and music, even in a limited tech environment. It’s a way to engage with entertainment and technology in a creative way, offering a bit more freedom within the constraints of school devices.
-![CRISPER (1)](https://github.com/user-attachments/assets/b5a89f5e-5325-4c44-82ca-d5a190d3c6cb)
+![CRISPER (1)](https://github.com/user-attachments/assets/b5df25d5-7a23-425a-bd6e-74c2628ca589)
 
 How to Download Crisper Games:
 Here’s a simple guide to downloading Crisper Games:   
